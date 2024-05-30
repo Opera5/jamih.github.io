@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: JAMIU ADEGOKE O.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: JAMIU O.
+last_name: ADEGOKE
 
 # Status emoji
 status:
@@ -17,101 +17,132 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: IoT/Embedded System Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: OperaWeb
+    url: https://www.youtube.com/channel/UCk5XNAziMWZ6Li_kZqtA78g
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ajamiu46@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Jamih_ad
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Opera5
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jamih-ad/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/jamih.ad/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+ # - area: PhD Artificial Intelligence
+    #institution: Stanford University
+    #date_start: 2016-01-01
+    #date_end: 2020-12-31
+    #summary: |
+     # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+   # button:
+     # text: 'Read Thesis'
+     # url: 'https://example.com'///
+  - area: BTech Electronics and Communication Engineering
+    institution: Gandhi Institute of Technology and Management
+    date_start: 2022-10-15
+    date_end: 2026-04-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 3.77/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+
+  - area: BSc Computer Science (Transferred)
+    institution: Ahmadu Bello University
+    date_start: 2020-01-04
+    date_end: 2022-03-14
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.88/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+  - area: National Diploma Computer Science
+    institution: Federal College of Animal Health and Production Technology
+    date_start: 2016-12-18
+    date_end: 2018-10-28
+    summary: |
+      GPA: 3.64/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Machine Learning Engineer (Remote Intern)
+    company_name: Technocolabs Softwares, India
+    company_url: 'https://technocolabs.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-06-15
+    date_end: 2022-07-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Detection of music track users’ interest in Spotify’s listed music (Project)
+      - Using Machine learning tools for the development of the prediction model.
+      - Used the Flask framework for the prediction model backend on the created interface using the Bootstrap framework. 
+
+  - position: Industrial Trainee
+    company_name: Federal College of Animal Health and Production, Computer Science Dept, Nigeria.
+    company_url: 'https://fcahptib.edu.ng/departments/nd-computer-science/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-11-10
+    date_end: 2019-12-18
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advanced embedded system Design and IoT
+      - Developing final year students’ projects In Automation and IoT
+      - 3D modelling and Design using Autodesk Fusion360
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: MS Office Packages
         description: ''
         percent: 80
-        icon: devicon/python
-      - name: RStudio
+        icon: devicon/office
+      - name: ROS2
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 30
+        icon: devicon/ROS
+      - name: Machine Learning
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: devicon/scikit
+      - name: C and Embedded C
+        description: ''
+        percent: 80
+        icon: devicon/C
+      - name: Arduino
+        description: ''
+        percent: 80
+        icon: devicon/arduino
+      - name: Computer Repair
+        description: ''
+        percent: 40
+        icon: devicon/academia
+      - name: Fusion360
+        description: ''
+        percent: 50
+        icon: devicon/
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -124,7 +155,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: PExploration
         description: ''
         percent: 80
         icon: camera
@@ -132,10 +163,13 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Arabic
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Yoruba
+    percent: 100
+  - name: Hausa
+    percent: 75
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
